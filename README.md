@@ -2,24 +2,23 @@
 
 <h1 align="center">I'm Shuvo <img src= "https://media1.giphy.com/media/3CCXHZWV6F6O9VQ7FL/giphy.gif?cid=790b7611d1e32af685e29fd36825ad582894ff5165548c7c&rid=giphy.gif" width= "50"/>&nbsp;</h1>
 
-
 <h2 align="left"><img src = "https://media4.giphy.com/media/ge2bSt3GWTXqKDUzQ8/giphy.gif?cid=790b761102b0bb88b9fecf29295cda1a0b3c2fe04de93019&rid=giphy.gif&ct=g" width='30'/>&nbsp;I have technical experience and interested in: </h2>
 
-* Data Science
-* Deep Learning
-* Machine Learning
-* Real Time Video and Audio Analysis
-* Computer vision 
-* Natural Language Processing 
-* Microcontrollers 
-* Robotics
+- Data Science
+- Deep Learning
+- Machine Learning
+- Real Time Video and Audio Analysis
+- Computer vision
+- Natural Language Processing
+- Microcontrollers
+- Robotics
 <h1><img src="https://media2.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width='99'/>&nbsp;</h1>
 
-Data Science-------██████████████████░░░░░░░                                                                                                                           
-Python-------------████████████████████░░░░░                                                                                                                           
-SQL----------------███████████████░░░░░░░░░░                                                                                                                           
-Cyber Security---- ███████████████░░░░░░░░░░                                                                                                                          
-Linux -------------██████████████████░░░░░░░                                                                                                                          
+Data Science-------██████████████████░░░░░░░  
+Python-------------████████████████████░░░░░  
+SQL----------------███████████████░░░░░░░░░░  
+Cyber Security---- ███████████████░░░░░░░░░░  
+Linux -------------██████████████████░░░░░░░
 
 <h2 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Languages and Tools that I know:</h2>
 <p align="left"> 
@@ -47,20 +46,18 @@ Linux -------------██████████████████░░�
 </p>
 
 ### My Hobbies and interests -
-* Traveling
-* Singing
-* Cooking
-* Coding
 
+- Traveling
+- Singing
+- Cooking
+- Coding
 
-
-#### You can also find me on- 
+#### You can also find me on-
 
 [<img align="left" alt="DS-Popeye | LinkedIn" width="30" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="DS-Popeye | Twitter" width="30" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="DS-Popeye | Instagram"  width="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="DS-Popeye | Facebook" width="30" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][Facebook]
-
+[<img align="left" alt="DS-Popeye | Instagram"  width="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="DS-Popeye | Facebook" width="30" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][facebook]
 
 <br>
 
@@ -68,11 +65,10 @@ Linux -------------██████████████████░░�
 
 [linkedin]: https://bd.linkedin.com/in/md-rabiul-awal-shuvo-5825671a2/
 [twitter]: https://twitter.com/Programmer704
-[Instagram]: https://www.instagram.com/md_robiul_awal_shuvo/
-[Facebook]: https://www.facebook.com/robiulawal.shuvo70
+[instagram]: https://www.instagram.com/md_robiul_awal_shuvo/
+[facebook]: https://www.facebook.com/robiulawal.shuvo70
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=onedark)](https://github.com/DS-Popeye/github-profile-trophy)
-
 
 <p align="center">
    <table>
@@ -87,11 +83,16 @@ Linux -------------██████████████████░░�
    </table>
 </p>
 
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DS-Popeye&theme=merko)](https://github.com/DS-Popeye/github-readme-activity-graph)
 
-![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)  
+![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)
 
-![Profile views](https://gpvc.arturio.dev/DS-Popeye)  
+![Profile views](https://gpvc.arturio.dev/DS-Popeye)
+
+<!--
 
 
+
+
+dgmtg
+ -->
