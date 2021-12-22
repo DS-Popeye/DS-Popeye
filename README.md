@@ -67,7 +67,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DS-Popeye)  
 
-![GitHub metrics](https://metrics.lecoq.io/ShakilGit)  
+![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DS-Popeye)  
 
