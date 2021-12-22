@@ -63,5 +63,14 @@
 [Facebook]: https://www.facebook.com/robiulawal.shuvo70
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DS-Popeye)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DS-Popeye&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DS-Popeye)  
+
+![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DS-Popeye)  
+
+![Profile views](https://gpvc.arturio.dev/DS-Popeye)  
 
 
