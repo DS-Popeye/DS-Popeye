@@ -13,7 +13,7 @@
 * Natural Language Processing 
 * Microcontrollers 
 * Robotics
-
+<iframe src="https://giphy.com/embed/17b875GGvV9m9sLmNc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-17b875GGvV9m9sLmNc">via GIPHY</a></p>
 Data Science-------██████████████████░░░░░░░                                                                                                                           
 Python-------------████████████████████░░░░░                                                                                                                           
 SQL----------------███████████████░░░░░░░░░░                                                                                                                           
