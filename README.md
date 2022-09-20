@@ -13,7 +13,7 @@
 * Natural Language Processing 
 * Microcontrollers 
 * Robotics
-<h1><img src="https://media2.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width='50'/>&nbsp;</h1>
+<h1><img src="https://media2.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width='99'/>&nbsp;</h1>
 
 Data Science-------██████████████████░░░░░░░                                                                                                                           
 Python-------------████████████████████░░░░░                                                                                                                           
