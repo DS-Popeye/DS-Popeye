@@ -88,7 +88,7 @@ Linux -------------██████████████████░░�
 </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DS-Popeye)  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DS-Popeye)](https://github.com/DS-Popeye/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)  
 
