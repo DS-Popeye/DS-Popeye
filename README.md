@@ -92,8 +92,6 @@ Linux -------------██████████████████░░�
 
 ![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DS-Popeye)  
-
 ![Profile views](https://gpvc.arturio.dev/DS-Popeye)  
 
 
