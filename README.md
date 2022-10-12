@@ -67,10 +67,9 @@ Linux --------------██████████████████░░
 [Instagram]: https://www.instagram.com/md_robiul_awal_shuvo/
 [Facebook]: https://www.facebook.com/robiulawal.shuvo70
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DS-Popeye)]
+[trophy]:(https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true)
 
 
-/////////////////
 <p align="center">
    <table>
    <h1 align="center">Github Stats</h1>
@@ -84,7 +83,6 @@ Linux --------------██████████████████░░
    </table>
 </p>
 
-///////////
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DS-Popeye&show_icons=true)  
 
