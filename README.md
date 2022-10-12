@@ -13,9 +13,9 @@
 
 Data Science-------██████████████████░░░░░░░                                                                                                                           
 Python-------------████████████████████░░░░░                                                                                                                           
-SQL-----------------███████████████░░░░░░░░░░                                                                                                                           
+SQL----------------███████████████░░░░░░░░░░                                                                                                                           
 Cyber Security---- ███████████████░░░░░░░░░░                                                                                                                          
-Linux --------------██████████████████░░░░░░░                                                                                                                          
+Linux -------------██████████████████░░░░░░░                                                                                                                          
 
 <h3 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Languages and Tools that I know:</h2>
 <p align="left"> 
@@ -68,16 +68,6 @@ Linux --------------██████████████████░░
 [Facebook]: https://www.facebook.com/robiulawal.shuvo70
 
 [trophy]:https://github-profile-trophy.vercel.app/?username=DS-Popeye
-
-<p align="center">
-   <table>
-      <tr>
-         <td> <img alt="DS-Popeye :: Profile Stats" src="https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
-            <p>hello</p>
-         </td>
-      </tr>
-   </table>
- </p>
 
 
 <p align="center">
