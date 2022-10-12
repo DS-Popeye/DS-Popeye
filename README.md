@@ -51,12 +51,11 @@ Linux -------------██████████████████░░�
 
 
 #### You can also find me on- 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-   [<img align="left" alt="DS-Popeye | LinkedIn" height="30" width="40" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-   [<img align="left" alt="DS-Popeye | Twitter" height="30" width="40" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-   [<img align="left" alt="DS-Popeye | Instagram" height="30" width="40" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-   [<img align="left" alt="DS-Popeye | Facebook" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][Facebook]
+
+[<img align="left" alt="DS-Popeye | LinkedIn" height="30" width="40" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="DS-Popeye | Twitter" height="30" width="40" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="DS-Popeye | Instagram" height="30" width="40" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="DS-Popeye | Facebook" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][Facebook]
 
 
 <br>
@@ -67,7 +66,6 @@ Linux -------------██████████████████░░�
 [twitter]: https://twitter.com/Programmer704
 [Instagram]: https://www.instagram.com/md_robiul_awal_shuvo/
 [Facebook]: https://www.facebook.com/robiulawal.shuvo70
-</p>
 
 [trophy]:https://github-profile-trophy.vercel.app/?username=DS-Popeye
 
