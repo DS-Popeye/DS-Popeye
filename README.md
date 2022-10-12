@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Shuvo 😍</h1>
-<h3 align="left"><img src = "https://media4.giphy.com/media/ge2bSt3GWTXqKDUzQ8/giphy.gif?cid=790b761102b0bb88b9fecf29295cda1a0b3c2fe04de93019&rid=giphy.gif&ct=g"width='50'/>&nbsp;I have technical experience and interested in:</h2>
-### I have technical experience and interested in -
+<h2 align="left"><img src = "https://media4.giphy.com/media/ge2bSt3GWTXqKDUzQ8/giphy.gif?cid=790b761102b0bb88b9fecf29295cda1a0b3c2fe04de93019&rid=giphy.gif&ct=g"width='50'/>&nbsp;I have technical experience and interested in: </h2>
+
 * Data Science
 * Deep Learning
 * Machine Learning
