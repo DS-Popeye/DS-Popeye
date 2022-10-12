@@ -52,10 +52,10 @@ Linux -------------██████████████████░░�
 
 #### You can also find me on- 
 
-[<img align="left" alt="DS-Popeye | LinkedIn" height="30" width="40" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="DS-Popeye | Twitter" height="30" width="40" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="DS-Popeye | Instagram" height="30" width="40" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-[<img align="left" alt="DS-Popeye | Facebook" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][Facebook]
+[<img align="left" alt="DS-Popeye | LinkedIn" width="30" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="DS-Popeye | Twitter" width="30" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="DS-Popeye | Instagram"  width="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="DS-Popeye | Facebook" width="30" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][Facebook]
 
 
 <br>
