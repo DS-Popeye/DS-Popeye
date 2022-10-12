@@ -67,12 +67,13 @@ Linux --------------██████████████████░░
 [Instagram]: https://www.instagram.com/md_robiul_awal_shuvo/
 [Facebook]: https://www.facebook.com/robiulawal.shuvo70
 
-[trophy]:https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=blue-green&amp;
+[trophy]:https://github-profile-trophy.vercel.app/?username=DS-Popeye
 
 <p align="center">
    <table>
       <tr>
          <td> <img alt="DS-Popeye :: Profile Stats" src="https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
+            <p>hello</p>
          </td>
       </tr>
    </table>
