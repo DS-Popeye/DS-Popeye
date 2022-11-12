@@ -76,7 +76,8 @@ Linux -------------██████████████████░░�
 
 <p align="center">
    <table>
-   <h1 align="center">Github Stats</h1>
+   <h1 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**</h1>
+
        <tr>
        <td><img alt="DS-Popeye :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=DS-Popeye&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
        <td><img alt="DS-Popeye :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-Popeye&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
