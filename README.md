@@ -108,4 +108,4 @@ Linux -------------██████████████████░░�
 
 # [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-#[![wakatime](<figure><embed src="https://wakatime.com/share/@7c249580-8352-47d5-a8e1-88b4b697afb9/ed88249a-8cd7-4c8d-b4b0-4229e4c1a5b0.svg"></embed></figure>)]
+#[![wakatime](https://wakatime.com/share/@7c249580-8352-47d5-a8e1-88b4b697afb9/ed88249a-8cd7-4c8d-b4b0-4229e4c1a5b0.svg)]
