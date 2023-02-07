@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><a target="_blank" href="https://alsiam.com">MD RABIUL AWAL SHUVO</a></b>
+        <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!, I am
+                <b><a target="_blank" href="https://alsiam.com">MD RABIUL AWAL SHUVO</a></b>
         </samp>
 </h3>
 <p align="center">
