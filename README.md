@@ -81,8 +81,9 @@ Linux -------------██████████████████░░�
 [instagram]: https://www.instagram.com/md_robiul_awal_shuvo/
 [facebook]: https://www.facebook.com/robiulawal.shuvo70
 
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=onedark)](https://github.com/DS-Popeye/github-profile-trophy)
-
+</p>
 <p align="center">
    <table>
       <h1 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**</h1>
