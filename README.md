@@ -81,28 +81,11 @@ Linux -------------██████████████████░░�
 
 <a> 
     <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+   <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+   <br/>
 </a>
-
-      <!-- <tr>
-       <td><img alt="DS-Popeye :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=DS-Popeye&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="DS-Popeye :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-Popeye&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
-     <!-- </tr>  -->
-
-
-     <!-- <tr> -->
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DS-Popeye&theme=blue-green&hide_border=true"></td>
-     </tr> -->
-
    </table>
 </p>
-
-<a> 
-    <a href="https://github.com/ds-popeye"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ds-popeye&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ds-popeye"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ds-popeye&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
 
 <a href="https://github.com/ds-popeye"><img alt="Shuvo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ds-popeye&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
 
