@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h1 align="center">
         <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">MD RABIUL AWAL SHUVO</a></b>
+                <b><a target="_blank" href="https://ds-popeye.com">MD RABIUL AWAL SHUVO</a></b>
         </samp>
 </h1>
 <h1 align="center">
@@ -81,21 +81,20 @@ Linux -------------██████████████████░░�
 [instagram]: https://www.instagram.com/md_robiul_awal_shuvo/
 [facebook]: https://www.facebook.com/robiulawal.shuvo70
 
-<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=onedark)](https://github.com/DS-Popeye/github-profile-trophy)
-</p>
+
 <p align="center">
    <table>
       <h1 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**</h1>
       <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/ds-popeye">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds-popeye&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-   <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/ds-popeye"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ds-popeye&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+   <a href="https://github.com/ds-popeye"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ds-popeye&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
    <br/>
 </a>
    </table>
