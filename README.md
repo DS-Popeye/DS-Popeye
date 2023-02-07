@@ -4,16 +4,16 @@
                 <b><a target="_blank" href="https://ds-popeye.com">MD RABIUL AWAL SHUVO</a></b>
         </samp>
 </h1>
-<h1 align="center">
+<h2 align="center">
         <!-- Organisation  -->
         <samp>
           <a href="https://www.google.com/search?q=MD+RABIUL+AWAL+SHUVO">「 Google Me 」</a> 
                 <br>
-                「 I am a full stack web appplication developer from <b>Bangladesh</b> 」
+                「 I am a Data Science Major Student. And now learning full stack web appplication developer from <b>Bangladesh</b> 」
                 <br>
                 <br>
         </samp>
-</h1>
+</h2>
 
 <h2 align="left"><img src = "https://media4.giphy.com/media/ge2bSt3GWTXqKDUzQ8/giphy.gif?cid=790b761102b0bb88b9fecf29295cda1a0b3c2fe04de93019&rid=giphy.gif&ct=g" width='30'/>&nbsp;I have technical experience and interested in: </h2>
 
