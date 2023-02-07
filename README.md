@@ -73,17 +73,30 @@ Linux -------------██████████████████░░�
 <p align="center">
    <table>
       <h1 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**</h1>
-      <tr>
-       <td><img alt="DS-Popeye :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=DS-Popeye&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="DS-Popeye :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-Popeye&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
-     </tr> 
-      
-     <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DS-Popeye&theme=blue-green&hide_border=true"></td>
-     </tr>
-   </table>
+      <p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
 </p>
 
+<a> 
+    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+      <!-- <tr>
+       <td><img alt="DS-Popeye :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=DS-Popeye&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="DS-Popeye :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-Popeye&langs_count=14&theme=blue-green&layout=compact&hide=html"> </td>
+     <!-- </tr>  -->
+
+
+     <!-- <tr> -->
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DS-Popeye&theme=blue-green&hide_border=true"></td>
+     </tr> -->
+
+   </table>
+</p>
 
 <a> 
     <a href="https://github.com/ds-popeye"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ds-popeye&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -91,20 +104,10 @@ Linux -------------██████████████████░░�
   <br/>
 </a>
 
-<<<<<<< Updated upstream
-
 <a href="https://github.com/ds-popeye"><img alt="Shuvo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ds-popeye&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
 
 ![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)
 
 ![Profile views](https://gpvc.arturio.dev/DS-Popeye)
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-=======
-![Profile views](https://gpvc.arturio.dev/DS-Popeye)
-<<<<<<< HEAD
-
-<!-- wrwb -->
-=======
->>>>>>> 0d49af8926bd8d3fc1dafb44fc36c2e09dd63311
->>>>>>> Stashed changes
+# [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
