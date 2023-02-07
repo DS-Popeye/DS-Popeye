@@ -83,7 +83,7 @@ Linux -------------██████████████████░░�
    </table>
 </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DS-Popeye&theme=merko)](https://github.com/DS-Popeye/github-readme-activity-graph)
+<a href="https://github.com/ds-popeye"><img alt="Shuvo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ds-popeye&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
 
 ![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)
 
