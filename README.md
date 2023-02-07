@@ -106,6 +106,6 @@ Linux -------------██████████████████░░�
 
 ![Profile views](https://gpvc.arturio.dev/DS-Popeye)
 
-![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)
+![wakatime](https://wakatime.com/badge/user/7c249580-8352-47d5-a8e1-88b4b697afb9/project/9998a091-5f6d-45f6-b5e0-f6823021ae04.svgg)
 
 ![wakatime](https://wakatime.com/share/@7c249580-8352-47d5-a8e1-88b4b697afb9/ed88249a-8cd7-4c8d-b4b0-4229e4c1a5b0.svg)
