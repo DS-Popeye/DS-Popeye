@@ -79,9 +79,9 @@ Linux -------------██████████████████░░�
 [linkedin]: https://bd.linkedin.com/in/md-rabiul-awal-shuvo-5825671a2/
 [twitter]: https://twitter.com/Programmer704
 [instagram]: https://www.instagram.com/md_robiul_awal_shuvo/
-[facebook]: https://www.facebook.com/robiulawal.shuvo70
+[facebook]: https://www.facebook.com/rabiulawal.shuvo70
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=onedark)](https://github.com/DS-Popeye/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=onedark)](https://github.com/DS-Popeye)
 
 <p align="center">
    <table>
@@ -105,4 +105,4 @@ Linux -------------██████████████████░░�
 ![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)
 
 
-![Profile views](https://komarev.com/ghpvc/?username=DS-Popeye&color=orange),![wakatime](https://wakatime.com/badge/user/7c249580-8352-47d5-a8e1-88b4b697afb9.svg)
+![Profile views](https://komarev.com/ghpvc/?username=DS-Popeye&color=orange) ![wakatime](https://wakatime.com/badge/user/7c249580-8352-47d5-a8e1-88b4b697afb9.svg)
