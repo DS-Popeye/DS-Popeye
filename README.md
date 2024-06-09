@@ -81,7 +81,7 @@ Linux -------------██████████████████░░�
 [instagram]: https://www.instagram.com/md_robiul_awal_shuvo/
 [facebook]: https://www.facebook.com/robiulawal.shuvo70
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=onedark)](https://github.com/DS-Popeye/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=onedark)](https://github.com/DS-Popeye/github-profile-trophy)
 
 <p align="center">
    <table>
@@ -93,18 +93,18 @@ Linux -------------██████████████████░░�
 </p>
 
 <a> 
-    <a href="https://github.com/ds-popeye"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ds-popeye&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-   <a href="https://github.com/ds-popeye"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ds-popeye&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/ds-popeye"><img alt="Al Shuvo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ds-popeye&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+   <a href="https://github.com/ds-popeye"><img alt="Al Shuvo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ds-popeye&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
    <br/>
 </a>
    </table>
 </p>
 
-<a href="https://github.com/ds-popeye"><img alt="Shuvo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ds-popeye&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+<a href="https://github.com/ds-popeye"><img alt="Shuvo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ds-popeye&theme=github-compact&point=68929b&area=true&hide_border=true" /></a>
 
-![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)]
+![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)
 
-![Profile views](https://gpvc.arturio.dev/DS-Popeye)]
-![](https://komarev.com/ghpvc/?username=DS-Popeye&color=orange)
 
-[![wakatime](https://wakatime.com/badge/user/7c249580-8352-47d5-a8e1-88b4b697afb9.svg)]
+![Profile views](https://komarev.com/ghpvc/?username=DS-Popeye&color=orange)
+
+![wakatime](https://wakatime.com/badge/user/7c249580-8352-47d5-a8e1-88b4b697afb9.svg)
