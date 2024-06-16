@@ -84,6 +84,10 @@ Linux -------------██████████████████░░�
 [![trophy](https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=onedark)](https://github.com/DS-Popeye)
 
 <p align="center">
+        ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ds-popeye&theme=dracula)
+</p>
+
+<p align="center">
    <table>
       <h1 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**</h1>
       <p align="center">
