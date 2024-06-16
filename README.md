@@ -112,7 +112,6 @@ Linux -------------██████████████████░░�
 
 <a href="https://github.com/ds-popeye"><img alt="Shuvo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ds-popeye&theme=github-compact&point=68929b&area=true&hide_border=true" /></a>
 
-![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=DS-Popeye&color=orange) [![wakatime](https://wakatime.com/badge/user/7c249580-8352-47d5-a8e1-88b4b697afb9.svg)](https://wakatime.com/@7c249580-8352-47d5-a8e1-88b4b697afb9)
