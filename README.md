@@ -93,20 +93,20 @@ Linux -------------██████████████████░░�
    <table>
       <h1 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**</h1>
       <p align="center">
-  <a href="https://github.com/ds-popeye">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds-popeye&theme=radical&border=7F3FBF&background=0D1117" alt="DS-Popeye's GitHub streak"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/ds-popeye" align="center">
-            <img alt="Al Shuvo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ds-popeye&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-    </a><br>
-   <a href="https://github.com/ds-popeye" align="center">
+              <a href="https://github.com/ds-popeye">
+                      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds-popeye&theme=radical&border=7F3FBF&background=0D1117" alt="DS-Popeye's GitHub streak"/>
+              </a>
+      </p>
+           <p align="center"> 
+                   <a href="https://github.com/ds-popeye">
+                           <img alt="Al Shuvo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ds-popeye&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+                   </a><br>
+           </p>
+           <p align="center">
+                   <a href="https://github.com/ds-popeye">
            <img alt="Al Shuvo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ds-popeye&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-   </a>
-   <br/>
-</a>
+   </a><br/>
+           </p>
    </table>
 </p>
 
