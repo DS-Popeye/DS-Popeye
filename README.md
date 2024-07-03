@@ -15,6 +15,23 @@
         </samp>
 </h2>
 
+<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/robiulawalshuvo rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-d3babe08-cfe4-4867-8fc4-4978493c7e81' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >robiulawalshuvo</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>A Full-stack engineer with expertise in Django, Python FastAPI, ReactJS, and React Native. With over 2 years of experience in software development, I have worked on a range of projects across various industries, providing innovative solutions to complex problems. My proficiency in Django and FastAPI allows me to create scalable and maintainable backend solutions, while my knowledge of ReactJS enables me to build efficient and dynamic user interfaces. I also have experience working with other technologies like PostgreSQL, AWS, and Docker. Github: ds-popeye</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-d3babe08-cfe4-4867-8fc4-4978493c7e81' src='https://widgets.fiverr.com/api/v1/seller/robiulawalshuvo?widget_id=d3babe08-cfe4-4867-8fc4-4978493c7e81' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+<!----      -->
+
 <h2 align="left"><img src = "https://media4.giphy.com/media/ge2bSt3GWTXqKDUzQ8/giphy.gif?cid=790b761102b0bb88b9fecf29295cda1a0b3c2fe04de93019&rid=giphy.gif&ct=g" width='30'/>&nbsp;I have technical experience and interested in: </h2>
 
 - Data Science
