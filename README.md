@@ -4,12 +4,14 @@
                 <b><a target="_blank" href="https://ds-popeye.com">MD RABIUL AWAL SHUVO</a></b>
         </samp>
 </h1>
+
+<h1>If you are visiting my profile from <b>Fiverr</b> Please message me on linkdin, Because fiverr has some term and condition.I don't want to loose my these fiverr account.</h1>
 <h2 align="center">
         <!-- Organisation  -->
         <samp>
           <a href="https://www.google.com/search?q=MD+RABIUL+AWAL+SHUVO">「 Google Me 」</a> 
                 <br>
-                「 I am a Data Science Major Student. And now learning full stack web appplication developer from <b>Bangladesh</b> 」
+                「 I am a Data Science Major Student. And now learning full stack web appplication development from <b>Bangladesh</b> 」
                 <br>
                 <br>
         </samp>
