@@ -5,7 +5,7 @@
         </samp>
 </h1>
 
-<h1>If you are visiting my profile from <b>Fiverr</b> Please message me on linkdin, Because fiverr has some term and condition.I don't want to loose my these fiverr account.</h1>
+<h1>If you are visiting my profile from <b>Fiverr</b> Please message me on linkdin, Because fiverr has some term and condition.</h1>
 <h2 align="center">
         <!-- Organisation  -->
         <samp>
