@@ -17,7 +17,6 @@
 </h2>
 <h1 align="center"><a href="https://ds-popeye.github.io/Portfolio/">Portfolio</a></h1>
 
-<h1 align="center">+8801764120595</h1>
 
 
 <h2 align="left"><img src = "https://media4.giphy.com/media/ge2bSt3GWTXqKDUzQ8/giphy.gif?cid=790b761102b0bb88b9fecf29295cda1a0b3c2fe04de93019&rid=giphy.gif&ct=g" width='30'/>&nbsp;I have technical experience and interested in: </h2>
