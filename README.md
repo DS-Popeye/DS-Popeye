@@ -10,7 +10,7 @@
         <samp>
           <a href="https://www.google.com/search?q=MD+RABIUL+AWAL+SHUVO">「 Google Me 」</a> 
                 <br>
-                「 I am a Data Science Major Student. And now learning full stack web appplication development from <b>Bangladesh</b> 」
+                「 I am a Data Science Major Student. Contact : https://wa.me/+8801764120595. And now learning full stack web appplication development from <b>Bangladesh</b> 」
                 <br>
                 <br>
         </samp>
