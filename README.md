@@ -58,8 +58,8 @@ Co-authored research on machine-learning-based intrusion detection for nuclear p
 
 ## Selected Publications
 
-1. **[Deep Learning–Empowered Predictive and Diagnostic Analysis of Diabetic Retinopathy Using Fundus Imaging Biomarkers](https://doi.org/10.1109/ICMSCI67830.2026.11469748).** *2026 Second International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)*, IEEE, 2026. DOI: `10.1109/ICMSCI67830.2026.11469748`.
-2. **[A Machine Learning-Based Intrusion Detection System for Nuclear Power Plant Control Networks](https://www.researchgate.net/publication/398655485_A_MACHINE_LEARNING-BASED_INTRUSION_DETECTION_SYSTEM_FOR_NUCLEAR_POWER_PLANT_CONTROL_NETWORKS).** *Global Journal of Scientific Research*, 13(11), 1235–1249, 2025.
+1. **[Deep Learning–Empowered Predictive and Diagnostic Analysis of Diabetic Retinopathy Using Fundus Imaging Biomarkers](https://doi.org/10.1109/ICMSCI67830.2026.11469748).** _2026 Second International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)_, IEEE, 2026. DOI: `10.1109/ICMSCI67830.2026.11469748`.
+2. **[A Machine Learning-Based Intrusion Detection System for Nuclear Power Plant Control Networks](https://www.researchgate.net/publication/398655485_A_MACHINE_LEARNING-BASED_INTRUSION_DETECTION_SYSTEM_FOR_NUCLEAR_POWER_PLANT_CONTROL_NETWORKS).** _Global Journal of Scientific Research_, 13(11), 1235–1249, 2025.
 
 ## Featured Engineering Projects
 
