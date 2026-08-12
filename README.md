@@ -1,111 +1,197 @@
-<!-- Intro  -->
-<h1 align="center">
-        <samp>&gt; <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There!, I am
-                <b><a target="_blank" href="https://ds-popeye.com">MD RABIUL AWAL SHUVO</a></b>
-        </samp>
-</h1>
-<h2 align="center">
-        <!-- Organisation  -->
-        <samp>
-          <a href="https://www.google.com/search?q=MD+RABIUL+AWAL+SHUVO">「 Google Me 」</a> 
-                <br>
-                「 I am a Data Science Major Student. And now learning full stack web appplication developer from <b>Bangladesh</b> 」
-                <br>
-                <br>
-        </samp>
-</h2>
+<div align="center">
 
-<h2 align="left"><img src = "https://media4.giphy.com/media/ge2bSt3GWTXqKDUzQ8/giphy.gif?cid=790b761102b0bb88b9fecf29295cda1a0b3c2fe04de93019&rid=giphy.gif&ct=g" width='30'/>&nbsp;I have technical experience and interested in: </h2>
+# MD RABIUL AWAL SHUVO
 
-- Data Science
-- Deep Learning
-- Machine Learning
-- Real Time Video and Audio Analysis
-- Computer vision
-- Natural Language Processing
-- Microcontrollers
-- Robotics
-<h1><img src="https://media2.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width='99'/>&nbsp;</h1>
+### AI/ML Researcher · Biomedical AI · Software Engineer
 
-Data Science-------██████████████████░░░░░░░  
-Python-------------████████████████████░░░░░  
-SQL----------------███████████████░░░░░░░░░░  
-Cyber Security---- ███████████████░░░░░░░░░░  
-Linux -------------██████████████████░░░░░░░
+**M.Sc. Computer Science & Technology @ Southwest University of Science and Technology**
 
-<h2 align="left"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Languages and Tools that I know:</h2>
-<p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" width="40" height="40"/> </a>
-</p>
+I work at the intersection of artificial intelligence, biomedical computing, and software engineering, with a growing focus on robust and explainable AI for healthcare. My research spans medical images, ECG and biomedical signals, deep learning, and computer vision, supported by experience building practical data and web systems.
 
-### My Hobbies and interests -
+[Website](https://rabiulawalshuvo.com) · [Google Scholar](https://scholar.google.com/citations?user=xOqAL0sAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Md-Rabiul-Shuvo) · [ORCID](https://orcid.org/0009-0003-4116-460X) · [LinkedIn](https://www.linkedin.com/in/md-rabiul-awal-shuvo-5825671a2/) · [GitHub](https://github.com/DS-Popeye)
 
-- Traveling
-- Singing
-- Cooking
-- Coding
+</div>
 
-#### You can also find me on-
+## About
 
-[<img align="left" alt="DS-Popeye | LinkedIn" width="30" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="DS-Popeye | Twitter" width="30" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="DS-Popeye | Instagram"  width="30" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="DS-Popeye | Facebook" width="30" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" />][facebook]
+- Pursuing an M.Sc. in Computer Science & Technology at Southwest University of Science and Technology in Mianyang, China.
+- Developing a research direction in **Biomedical AI**, particularly robust learning for healthcare data.
+- Working with deep learning, medical images, ECG and biomedical signals, computer vision, and applied machine learning.
+- Bringing a software engineering background across Python, Django, React, APIs, and data-driven applications.
+- Open to research collaboration and the development of practical, reproducible AI systems.
 
-<br>
+## Research Focus
 
-<hr>
+`Biomedical AI` · `Medical Image Analysis` · `ECG & Biomedical Signals` · `Deep Learning`
 
-[linkedin]: https://bd.linkedin.com/in/md-rabiul-awal-shuvo-5825671a2/
-[twitter]: https://twitter.com/Programmer704
-[instagram]: https://www.instagram.com/md_robiul_awal_shuvo/
-[facebook]: https://www.facebook.com/robiulawal.shuvo70
+`Computer Vision` · `Explainable AI` · `Robust Machine Learning` · `Applied Machine Learning`
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DS-Popeye&theme=onedark)](https://github.com/DS-Popeye/github-profile-trophy)
+## Selected Research
+
+### Artifact-Robust and Quality-Aware Segment-to-Signal ECG Diagnosis
+
+Current research on a CRNN-based diagnostic framework for mobile, scanned, and generated ECGs. The work focuses on artifact robustness, signal-quality assessment, segment-to-signal inference, multi-dataset evaluation, external generalization, and explainability.
+
+**Research areas:** CRNN · ECG classification · Biomedical signal analysis · Robustness · Explainability
+
+### Diabetic Retinopathy and Fundus Imaging
+
+Co-authored an IEEE conference paper on deep-learning-based predictive and diagnostic analysis of retinal fundus images using imaging biomarkers.
+
+**Research areas:** Biomedical AI · Fundus image analysis · Deep learning · Computer vision · Medical imaging
+
+**Paper:** [Deep Learning–Empowered Predictive and Diagnostic Analysis of Diabetic Retinopathy Using Fundus Imaging Biomarkers](https://doi.org/10.1109/ICMSCI67830.2026.11469748)
+
+### Rice Disease Detection
+
+Applying computer vision and deep learning to rice disease image classification as an agricultural AI research project.
+
+**Research areas:** Computer vision · Deep learning · Image classification · Agricultural AI
+
+### Machine Learning for Critical-Infrastructure Security
+
+Co-authored research on machine-learning-based intrusion detection for nuclear power plant control networks.
+
+**Research areas:** Intrusion detection · Machine learning · Critical infrastructure · Nuclear cybersecurity
+
+**Paper:** [A Machine Learning-Based Intrusion Detection System for Nuclear Power Plant Control Networks](https://www.researchgate.net/publication/398655485_A_MACHINE_LEARNING-BASED_INTRUSION_DETECTION_SYSTEM_FOR_NUCLEAR_POWER_PLANT_CONTROL_NETWORKS)
+
+## Selected Publications
+
+1. **[Deep Learning–Empowered Predictive and Diagnostic Analysis of Diabetic Retinopathy Using Fundus Imaging Biomarkers](https://doi.org/10.1109/ICMSCI67830.2026.11469748).** *2026 Second International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)*, IEEE, 2026. DOI: `10.1109/ICMSCI67830.2026.11469748`.
+2. **[A Machine Learning-Based Intrusion Detection System for Nuclear Power Plant Control Networks](https://www.researchgate.net/publication/398655485_A_MACHINE_LEARNING-BASED_INTRUSION_DETECTION_SYSTEM_FOR_NUCLEAR_POWER_PLANT_CONTROL_NETWORKS).** *Global Journal of Scientific Research*, 13(11), 1235–1249, 2025.
+
+## Featured Engineering Projects
+
+### [JNB Protection Group](https://github.com/DS-Popeye/jbn)
+
+A full-stack website platform with a localized React frontend and a separate content-management backend. The backend provides public content APIs, administrative workflows, and contact-form delivery.
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS · [Next.js](https://github.com/DS-Popeye/jbn-backend) · Payload CMS · MongoDB · REST APIs
+
+### [Beast Mode Movers](https://github.com/DS-Popeye/Beast_Mode_movers)
+
+A componentized, multi-page service application with localized content, service and location routes, lead forms, and reusable interface sections.
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS · React Router · i18next
+
+### [HSK Practice](https://github.com/DS-Popeye/HSK-Practice)
+
+A React application for structured Chinese-language practice with client-side navigation and a focused learning interface.
+
+**Stack:** React · JavaScript · Vite · React Router
+
+### [Health Insurance Prediction System](https://github.com/DS-Popeye/Health-Insurance-Prediction-System)
+
+A machine-learning prototype for health-insurance premium prediction, combining exploratory modeling with a Flask-based prediction interface.
+
+**Stack:** Python · scikit-learn · NumPy · Pandas · Flask
+
+## Technology Stack
+
+### AI / Machine Learning
+
+`Python` · `PyTorch` · `TensorFlow` · `Keras` · `scikit-learn` · `NumPy` · `Pandas` · `OpenCV` · `Transformers`
+
+### Backend & Data
+
+`Django` · `Flask` · `Next.js` · `Payload CMS` · `REST APIs` · `MongoDB` · `PostgreSQL` · `MySQL`
+
+### Frontend
+
+`React` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Tailwind CSS` · `Vite`
+
+### Engineering & Tools
+
+`Git` · `GitHub` · `Docker` · `Linux` · `AWS`
+
+## Academic Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=xOqAL0sAAAAJ&hl=en) — publications and scholarly record
+- [ResearchGate](https://www.researchgate.net/profile/Md-Rabiul-Shuvo) — research profile and full-text research
+- [ORCID](https://orcid.org/0009-0003-4116-460X) — persistent researcher identifier
+- [Personal website](https://rabiulawalshuvo.com) — projects, experience, and contact
+
+---
+
+## GitHub Achievements
 
 <p align="center">
-   <table>
-      <h1 align="center"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**</h1>
-      <p align="center">
-  <a href="https://github.com/ds-popeye">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ds-popeye&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophy.ryglcloud.net/?username=DS-Popeye&amp;theme=onedark&amp;row=1&amp;column=6&amp;margin-w=8&amp;margin-h=8&amp;no-frame=true&amp;no-bg=true" width="100%" alt="GitHub achievement trophies for DS-Popeye">
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/ds-popeye"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ds-popeye&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-   <a href="https://github.com/ds-popeye"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ds-popeye&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-   <br/>
-</a>
-   </table>
+<!-- Fallback: if the shared trophy mirror becomes unavailable, self-host
+     ryo-ma/github-profile-trophy on Vercel and replace only the image host. -->
+
+## GitHub Analytics
+
+### Account Overview & Repository Languages
+
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=DS-Popeye&amp;show_icons=true&amp;include_all_commits=true&amp;custom_title=GitHub%20Account%20Overview&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=7C3AED&amp;border_color=30363D" width="49%" alt="GitHub account statistics for DS-Popeye">
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DS-Popeye&amp;layout=compact&amp;langs_count=8&amp;custom_title=Languages%20Across%20Public%20Repositories&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;border_color=30363D" width="49%" alt="Languages across the public repositories of DS-Popeye">
+  </a>
 </p>
 
-<a href="https://github.com/ds-popeye"><img alt="Shuvo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ds-popeye&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+<sub>The language card describes repository composition; it is not a measure of proficiency.</sub>
 
-![GitHub metrics](https://metrics.lecoq.io/DS-Popeye)
+### Contribution Streak
 
-![Profile views](https://gpvc.arturio.dev/DS-Popeye)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="./profile/streak.svg" width="100%" alt="GitHub contribution streak for DS-Popeye">
+  </a>
+</p>
 
-[![wakatime](https://wakatime.com/badge/user/7c249580-8352-47d5-a8e1-88b4b697afb9.svg)](https://wakatime.com/@7c249580-8352-47d5-a8e1-88b4b697afb9)
+### Recent Contribution Activity
 
-![wakatime](https://wakatime.com/share/@7c249580-8352-47d5-a8e1-88b4b697afb9/ed88249a-8cd7-4c8d-b4b0-4229e4c1a5b0.svg)
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DS-Popeye&amp;bg_color=0D1117&amp;color=C9D1D9&amp;line=58A6FF&amp;point=FFFFFF&amp;area=true&amp;area_color=7C3AED&amp;border_color=30363D&amp;custom_title=Recent%20Contribution%20Activity&amp;hide_border=false" width="100%" alt="Recent GitHub contribution activity graph for DS-Popeye">
+</a>
+
+## GitHub Metrics
+
+<a href="https://github.com/lowlighter/metrics">
+  <img src="./github-metrics.svg" width="100%" alt="Isometric GitHub contribution calendar for DS-Popeye">
+</a>
+
+## Development Activity
+
+<p align="center">
+  <a href="https://wakatime.com/@7c249580-8352-47d5-a8e1-88b4b697afb9">
+    <img src="https://wakatime.com/badge/user/7c249580-8352-47d5-a8e1-88b4b697afb9.svg" alt="Total coding time tracked by WakaTime">
+  </a>
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<a href="https://wakatime.com/@7c249580-8352-47d5-a8e1-88b4b697afb9">
+  <img src="https://wakatime.com/share/@7c249580-8352-47d5-a8e1-88b4b697afb9/ed88249a-8cd7-4c8d-b4b0-4229e4c1a5b0.svg" width="100%" alt="WakaTime coding activity chart for DS-Popeye">
+</a>
+
+### Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=DS-Popeye&label=Profile%20Views&color=0969da&style=flat-square)
+
+---
+
+## Research & Collaboration
+
+I welcome conversations about collaborative research, reproducible implementations, and applied AI systems in **Biomedical AI**, **deep learning**, **medical image analysis**, **ECG and biomedical signals**, **computer vision**, and **applied machine learning**.
+
+[Start a conversation on LinkedIn](https://www.linkedin.com/in/md-rabiul-awal-shuvo-5825671a2/) · [Visit my website](https://rabiulawalshuvo.com) · [Explore my repositories](https://github.com/DS-Popeye?tab=repositories)
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/md-rabiul-awal-shuvo-5825671a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect with MD Rabiul Awal Shuvo on LinkedIn"></a>
+  <a href="https://twitter.com/Programmer704"><img src="https://img.shields.io/badge/X-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="Follow Programmer704 on X"></a>
+  <a href="https://www.instagram.com/md_robiul_awal_shuvo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Follow MD Rabiul Awal Shuvo on Instagram"></a>
+  <a href="https://www.facebook.com/robiulawal.shuvo70"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Connect with MD Rabiul Awal Shuvo on Facebook"></a>
+</p>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title description">
+  <title id="title">GitHub Contribution Streak</title>
+  <desc id="description">Placeholder displayed until the configured streak workflow generates the static contribution streak card.</desc>
+  <rect width="900" height="180" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="178" rx="11" fill="none" stroke="#30363d" stroke-width="2"/>
+  <path d="M76 39c13 21-2 30 10 43 7 8 17 3 17-8 13 14 14 39-2 54-18 17-49 11-59-12-9-22 5-42 21-54-2 15 3 22 10 22 9 0 13-13 3-45z" fill="#7c3aed"/>
+  <path d="M72 84c8 10 1 17 7 23 4 4 10 1 10-5 8 9 6 23-5 29-13 7-30-2-29-17 1-12 10-20 17-30z" fill="#58a6ff"/>
+  <text x="130" y="77" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">GitHub Contribution Streak</text>
+  <text x="130" y="108" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="17">Static SVG configured with DenverCoder1/github-readme-streak-stats</text>
+  <text x="130" y="137" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="14">Awaiting first successful workflow run</text>
+</svg>

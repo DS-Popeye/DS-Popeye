@@ -1,0 +1,35 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "40 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - ".github/workflows/metrics.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-metrics
+  cancel-in-progress: true
+
+jobs:
+  generate-metrics:
+    name: Generate isometric contribution calendar
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Generate GitHub Metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: DS-Popeye
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

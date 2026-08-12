@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title description">
+  <title id="title">GitHub Metrics</title>
+  <desc id="description">Placeholder displayed until the configured GitHub Metrics workflow generates the isometric contribution calendar.</desc>
+  <rect width="900" height="220" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="218" rx="11" fill="none" stroke="#30363d" stroke-width="2"/>
+  <circle cx="72" cy="78" r="28" fill="#161b22" stroke="#7c3aed" stroke-width="3"/>
+  <path d="M58 87V71h8v16zm14 0V61h8v26zm14 0V52h8v35z" fill="#58a6ff"/>
+  <text x="120" y="76" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">GitHub Metrics</text>
+  <text x="120" y="108" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="17">Isometric contribution calendar configured with lowlighter/metrics</text>
+  <rect x="120" y="132" width="248" height="34" rx="17" fill="#161b22" stroke="#30363d"/>
+  <text x="244" y="154" fill="#c9d1d9" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14">Awaiting first successful workflow run</text>
+</svg>
